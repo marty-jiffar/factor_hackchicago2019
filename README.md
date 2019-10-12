@@ -1,2 +1,2 @@
-# factor_hackchicago2019
+# Factor
 Application displaying ethical practices of companies as a tool for consumers' financial management
